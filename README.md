@@ -13,13 +13,14 @@ Semua asset dapat diunduh di uniska-kediri.ac.id <br>
 Logo.....LHD.jpg = Logo dengan Kualitas Low <br>
 logo_uniska.png = Logo png transparan dengan ukuran sebenarnya <br>
 logo_uniska_.png = Logo png transparan dengan ukuran lebih kecil <br>
+|.webm | .webp | jpg | jpeg | png | others = Assets unofficial <br>
 
 
 # PERINGATAN
-Penggunaan logo Universitas Islam Kadiri yang menyalahi aturan merupakan tanggung jawab pemakai itu sendiri, kami Bagian TI UNISKA (SIM) tidak bertanggung jawab terhadap kesalahan pribadi atas logo Universitas Islam Kadiri. Konten pada halaman ini hanya untuk keperluan ARSIP PRIBADI, jadi jika anda menemukan konten ini pada GitHub maka gunakanlah sebagaimana mestinya.
+Penggunaan logo dan atau assets Universitas Islam Kadiri yang menyalahi aturan merupakan tanggung jawab pemakai itu sendiri, kami Bagian TI UNISKA (SIM) tidak bertanggung jawab terhadap kesalahan pribadi atas logo Universitas Islam Kadiri. Konten pada halaman ini hanya untuk keperluan ARSIP PRIBADI, jadi jika anda menemukan konten ini pada GitHub maka gunakanlah sebagaimana mestinya.
 
 # PENUTUP
-Dengan membaca ketentuan diatas maka pengguna menyetujui dan mengetahui dari resiko penyalahgunaan logo dan siap menanggung resikonya.
+Dengan membaca ketentuan diatas maka pengguna menyetujui dan mengetahui dari resiko penyalahgunaan logo dan atau assets serta siap menanggung resikonya (Dihapus atau tindakan lainnya).
 
 
 # SIM UNISKA
